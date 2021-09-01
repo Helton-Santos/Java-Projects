@@ -1,2 +1,2 @@
 # Java-Projects
-Some Java projects.
+Few Java projects.
