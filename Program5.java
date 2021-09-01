@@ -1,4 +1,4 @@
-// Membros estáticos - pt. 1 (Calculator)
+// Static members - pt. 1 (Calculator)
 
 package application;
 
