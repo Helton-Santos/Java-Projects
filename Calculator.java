@@ -1,4 +1,4 @@
-// Membros estáticos - pt.1 (Program5)
+// Static members - pt.1 (Program5)
 
 package util;
 
